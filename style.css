@@ -1,0 +1,54 @@
+body {background-color: #caf0f8;}
+
+table {
+    background-color: #22577a;
+    border-color: brown;
+    border-radius: 8px;
+    border-style: solid;
+    }
+
+
+
+#d1 {text-align: center;
+    color: #38a3a5;
+    background-color: #c7f9cc;
+    
+    }
+
+#d2 {color: #e0e1dd;
+font-family: roboto;
+}
+
+
+/* all in put id is c1*/
+
+.c1 {background-color: #edf6f9;
+border-color: #22577a;
+border-style: solid;
+border-radius: 5px;
+height: 30px;
+width: 180px;}
+
+select {background-color: #edf6f9;
+    border-color: #22577a;
+    border-style: solid;
+    border-radius: 5px;
+    height: 30px;
+    width: 185px;}
+
+
+    #ui {text-align: center;
+    font-size: 25px;}
+
+    #sb {background-color: #edf6f9;
+        border-color: #22577a;
+        border-style: solid;
+        border-radius: 5px;
+        height: 40px;
+        width: 200px;
+        position: relative;
+        display: block;
+        margin : 0 auto;
+}
+
+
